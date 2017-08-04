@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "draft-js": "^0.10.1",
+    "draft-js-export-html": "^0.6.0"
+  }
+}

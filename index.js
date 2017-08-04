@@ -112,5 +112,5 @@ export const setStartOffset = (offset) => {
 }
 
 export const setContentState = (contentState, editorState) => {
-  return EditorState.set(editorState, { currentContent: contentStateWithEntity });
+  return EditorState.set(editorState, { currentContent: contentState });
 }

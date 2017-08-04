@@ -1,4 +1,14 @@
 {
+  "name": "draft-utils",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "kjj6198/draft-utils"
+  },
+  "keywords": ["react", "draft-js", "javascript"],
+  "author": "Kalan Chen <kjj6198@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "draft-js": "^0.10.1",
     "draft-js-export-html": "^0.6.0"
